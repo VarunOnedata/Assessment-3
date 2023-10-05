@@ -1,0 +1,41 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    justify-content: center;
+  }
+ 
+  .item-box{
+    width: 100%;
+
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .card{
+    position: relative;
+    left: 200px;
+    top: 20px;  
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.page{
+    background-color: rgb(186, 214, 223);
+    height: auto;
+}
+
+.form-control{
+  width: 400px;
+  justify-content: center;
+  position: relative;
+  left: 80px;
+}

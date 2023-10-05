@@ -1,0 +1,10 @@
+{
+    "items": [
+      { "id": 1, "name": "varun" ,"email":"varun@gmail.com","domain": "react", "place":"coimbatore","age": 21 },
+      { "id": 2, "name": "hari" ,"email":"hari@gmail.com","domain": "angular", "place":"chennai","age": 22 },
+      { "id": 3, "name": "raghu" ,"email":"raghu@gmail.com","domain": "python", "place":"trichy","age": 23 },
+      { "id": 4, "name": "sri" ,"email":"sri@gmail.com","domain": "c#", "place":"erode","age": 23 },
+      { "id": 5, "name": "divager" ,"email":"divager@gmail.com","domain": "aws", "place":"madhurai","age": 23 }
+    ]
+  }
+  
